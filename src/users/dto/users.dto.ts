@@ -1,5 +1,5 @@
-export class users {
-  cn_id_user: string;
+export class createUserDto{
+
   ct_id_rol: string;
   cn_id: number;
   ct_name: string;
